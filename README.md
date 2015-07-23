@@ -1,2 +1,2 @@
 # NotesModal
-A modal written in angular to take notes :memo:
+A modal written in angular to take :memo:

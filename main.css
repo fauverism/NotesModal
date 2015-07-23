@@ -1,0 +1,11 @@
+ul.notes-list {
+	margin: 0;
+	padding: 0;
+}
+ul.notes-list li {
+	font-size: 1.2rem;
+	list-style-type: none;
+}
+ul.notes-list li:first-child {
+	font-weight: bold;
+}
